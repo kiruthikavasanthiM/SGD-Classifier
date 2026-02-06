@@ -49,7 +49,8 @@ print(classification_report(y_test, y_pred))
 ```
 
 ## Output:
-![ex 7 ml](https://github.com/user-attachments/assets/94e8a105-367b-4413-9d59-3363692e3761)
+![ex 7 ml](https://github.com/user-attachments/assets/210e62c8-10ab-4f48-be85-275b05f11edd)
+
 
 
 
